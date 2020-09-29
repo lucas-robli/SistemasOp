@@ -4,7 +4,7 @@
 # In[5]:
 
 
-import pandas as pd
+import pandas as pd 
 
 processos = {
     'processo': ['p1', 'p2', 'p3', 'p4', 'p5', 'p6', 'p7', 'p8', 'p9', 'p10'],
